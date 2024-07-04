@@ -1,6 +1,7 @@
 # WEB-Drop-Editor for KO
 
 I will explain it via XAMPP.
+
 1-Microsoft DBO Sql Server library is required for installation. ([Download here](https://ko-yardim.com/yonlendirme?to=aHR0cHM6Ly9nby5taWNyb3NvZnQuY29tL2Z3bGluay8/bGlua2lkPTIyNTg4MTY=))
 
 2-Copy the resulting DLL files to "xampp\php\ext".
